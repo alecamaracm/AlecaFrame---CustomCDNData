@@ -163,9 +163,15 @@
 /Lotus/Types/Recipes/Weapons/WeaponParts/DuviriRifleReceiver
 /oLtus/Types/Recipes/Weapons/WeaponParts/DuviriRifleBarrel
 
-//Basmu
-/Lotus/Types/Recipes/Weapons/SentRifleNewWarGunBlueprint
+////Hespar (melee)
+/Lotus/Types/Recipes/Weapons/WeaponParts/DuviriHeavyScytheBlade
+/Lotus/Types/Recipes/Weapons/WeaponParts/DuviriHeavyScytheHandle
 
-//Pennant
-/Lotus/Types/Recipes/Weapons/TnRailjackGreatKatanaBlueprint
+////Praedos (melee)
+/Lotus/Types/Recipes/Weapons/Evolving/ZarimanTonfaWeaponBlueprint
 
+////Laetum (secondary)
+/Lotus/Types/Recipes/Weapons/Evolving/ZarimanHeavyPistolBlueprint
+
+////Phenmor (primary)
+/Lotus/Types/Recipes/Weapons/Evolving/ZarimanSemiAutoRifleBlueprint
