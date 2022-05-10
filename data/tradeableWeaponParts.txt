@@ -51,7 +51,6 @@
 /Lotus/Types/Items/Gems/Deimos/DeimosEidolonGemACutItem	//Arum Spinosa Trapezium Xenorhast
 
 ////Broken War (Melee) (https://warframe.fandom.com/wiki/Broken_War)
-/Lotus/Types/Recipes/Weapons/BrokenWarBlueprint	//Broken War Blueprint
 /Lotus/Types/Recipes/Weapons/WeaponParts/WarBlade	//Broken War War Blade
 /Lotus/Types/Recipes/Weapons/WeaponParts/WarHilt	//Broken War War Hilt
 
