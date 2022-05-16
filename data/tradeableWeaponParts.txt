@@ -174,3 +174,13 @@
 
 ////Phenmor (primary)
 /Lotus/Types/Recipes/Weapons/Evolving/ZarimanSemiAutoRifleBlueprint
+
+////Morgha (arch gun)
+/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechGrenadeLauncherReceiverItem
+/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechGrenadeLauncherStockItem
+/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechGrenadeLauncherBarrelItem
+
+////Cortege (arch gun)
+/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechArchGunBarrelItem
+/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechArchGunReceiverItem
+/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechArchGunStockItem
