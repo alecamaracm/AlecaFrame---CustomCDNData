@@ -1,1 +1,1 @@
-logAll=false
+logAll=true
