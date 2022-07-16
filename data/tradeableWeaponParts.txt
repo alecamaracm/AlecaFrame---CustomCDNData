@@ -184,3 +184,15 @@
 /Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechArchGunBarrelItem
 /Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechArchGunReceiverItem
 /Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechArchGunStockItem
+
+//Odonata prime  YES, IT NEEDS TO SAY COMPONENT FOR WARFRAMES/OTHER STUFF WHERE YOU CRAFT PARTS 
+/Lotus/Types/Recipes/ArchwingRecipes/PrimeArchwing/PrimeArchwingBlueprint
+/Lotus/Types/Recipes/ArchwingRecipes/PrimeArchwing/PrimeArchwingChassisComponent
+/Lotus/Types/Recipes/ArchwingRecipes/PrimeArchwing/PrimeArchwingSystemsComponent
+/Lotus/Types/Recipes/ArchwingRecipes/PrimeArchwing/PrimeArchwingWingsComponent
+
+//Corvas prime
+/Lotus/Types/Recipes/Weapons/CorvasPrimeBlueprint
+/Lotus/Types/Recipes/Weapons/WeaponParts/CorvasPrimeBarrel
+/Lotus/Types/Recipes/Weapons/WeaponParts/CorvasPrimeReceiver
+/Lotus/Types/Recipes/Weapons/WeaponParts/CorvasPrimeStock
