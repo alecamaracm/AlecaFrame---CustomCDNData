@@ -196,3 +196,8 @@
 /Lotus/Types/Recipes/Weapons/WeaponParts/CorvasPrimeBarrel
 /Lotus/Types/Recipes/Weapons/WeaponParts/CorvasPrimeReceiver
 /Lotus/Types/Recipes/Weapons/WeaponParts/CorvasPrimeStock
+
+
+//Hespar (New weapon, component blueprints are tradeable)
+/Lotus/Types/Recipes/Weapons/WeaponParts/DuviriHeavyScytheBlade
+/Lotus/Types/Recipes/Weapons/WeaponParts/DuviriHeavyScytheHandle
