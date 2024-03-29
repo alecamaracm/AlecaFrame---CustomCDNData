@@ -1,5 +1,7 @@
+[
 {
-	"enabled": true,
-	"message": "test Message. With a lot of text. Check <a href=\"https://discord.gg/nzuJZGXrYr\" for more info or updates>Discord</a>",
-	"maxVersion": "9.9.9"
+	"enabled": false,
+	"message": "The last Warframe update has broken part of the integration with Warframe. Your inventory data won't update until it is fixed. Overwolf is working on a fix but this usually takes them 2-3 days. More info and updates on <a href=\"https://discord.gg/nzuJZGXrYr\">Discord</a>.",
+	"maxVersion": ""
 }
+]
