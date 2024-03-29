@@ -1,0 +1,5 @@
+{
+	"enabled": true,
+	"message": "test Message. With a lot of text. Check <a href=\"https://discord.gg/nzuJZGXrYr\" for more info or updates>Discord</a>",
+	"maxVersion": "9.9.9"
+}
