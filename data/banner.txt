@@ -3,5 +3,10 @@
 	"enabled": false,
 	"message": "The last Warframe update has broken part of the integration with Warframe. Your inventory data won't update until it is fixed. Overwolf is working on a fix but this usually takes them 2-3 days. More info and updates on <a href=\"https://discord.gg/nzuJZGXrYr\">Discord</a>.",
 	"maxVersion": ""
+},
+{
+	"enabled": true,
+	"message": "Opening the riven overlay with chat rivens is currently broken due to the last hotfix. Working on a fix, it will probably take 1-2 days.",
+	"maxVersion": ""
 }
 ]
