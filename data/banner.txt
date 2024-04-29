@@ -5,7 +5,7 @@
 	"maxVersion": ""
 },
 {
-	"enabled": true,
+	"enabled": false,
 	"message": "Opening the riven overlay with chat rivens is currently broken due to the last hotfix. Working on a fix, it will probably take 1-2 days.",
 	"maxVersion": ""
 }
