@@ -1,0 +1,384 @@
+{
+	"Secondary": [
+		{
+			"uniqueName": "/Lotus/Weapons/Tenno/Grimoire/TnGrimoire",
+			"type": "Add",
+			"data": {				
+				"attacks": [
+				  {
+					"name": "Normal Attack",
+					"speed": 1.5,
+					"crit_chance": 20,
+					"crit_mult": 2,
+					"status_chance": 26,
+					"shot_type": "Projectile",
+					"shot_speed": 100,
+					"flight": 100,
+					"damage": { "electricity": 100 }
+				  }
+				],
+				"category": "Secondary",
+				"components": [],				
+				"damagePerShot": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+				"description": "Claim the power of Abrecht Entrati's knowledge. Customize the Grimoire with Tome Mods that enhance Warframe Abilities and reward strategic combat. Its alternate attack releases a voltaic orb with guaranteed Electricity Status.",				
+				"imageName": "https://cdn.alecaframe.com/warframeData/custom/imgRemote/patches/Grimoire.webp",
+				"isPrime": false,
+				"magazineSize": 0,
+				"masterable": true,
+				"masteryReq": 10,
+				"ammo": 0,
+				"multishot": 1,
+				"polarities": ["madurai","naramon"],
+				"name": "Grimoire",
+				"noise": "Alarming",
+				"patchlogs": [],
+				"procChance": 0.10000002,
+				"productCategory": "Pistols",
+				"reloadTime": 0,
+				"tags": [],
+				"totalDamage": 100,
+				"trigger": "Auto",
+				"type": "Pistol",
+				"wikiaUrl": "https://warframe.fandom.com/wiki/Grimoire"
+		    },
+		}
+	],
+	"Arcanes": [
+		{
+			"uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/HeavyCritOnRegularMelee",
+			"type": "Add",
+			"data": {
+				"category": "Arcanes",
+				"drops": [
+				  {
+					"chance": 0.0625,
+					"location": "Mocking Whisper"
+				  },	
+				  {
+					"chance": 0.0625,
+					"location": "Scathing Whisper"
+				  },				  
+				  {
+					"chance": 0.0625,
+					"location": "The Fragmented"
+				  },				  
+				  {
+					"chance": 0.0,
+					"location": "Gruzzling"
+				  },	
+				  {
+					"chance": 100,
+					"location": "7500 faction standing"
+				  },				  				  
+				],
+				"imageName": "https://cdn.alecaframe.com/warframeData/custom/imgRemote/patches/MeleeAnimosity.webp",
+				"levelStats": [
+				  { "stats": ["7% Critical Chance for Heavy Attacks; Stacks up to 10 times."] },
+				  { "stats": ["14% Critical Chance for Heavy Attacks; Stacks up to 10 times."] },
+				  { "stats": ["21% Critical Chance for Heavy Attacks; Stacks up to 10 times."] },
+				  { "stats": ["28% Critical Chance for Heavy Attacks; Stacks up to 10 times."] },
+				  { "stats": ["35% Critical Chance for Heavy Attacks; Stacks up to 10 times."] },
+				  { "stats": ["42% Critical Chance for Heavy Attacks; Stacks up to 10 times."] }
+				],
+				"name": "Melee Animosity",
+				"patchlogs": [],
+				"rarity": "Uncommon",
+				"tradable": true,
+				"type": "Arcane",
+			}
+		},
+		{
+			"uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/PermaComboOnFinisher",
+			"type": "Add",
+			"data": {
+				"category": "Arcanes",
+				"drops": [
+				  {
+					"chance": 0.1,
+					"location": "Netracells"
+				  },	
+				  {
+					"chance": 0.1,
+					"location": "Deep Archimedea (Silver)"
+				  },				  
+				  {
+					"chance": 0.15,
+					"location": "Deep Archimedea (Gold)"
+				  },				  
+				  {
+					"chance": 0.25,
+					"location": "Deep Archimedea (Diamond)"
+				  },				  				  
+				],
+				"imageName": "https://cdn.alecaframe.com/warframeData/custom/imgRemote/patches/MeleeCrescendo.webp",
+				"levelStats": [
+				  { "stats": ["1 Initial Combo"] },
+				  { "stats": ["2 Initial Combo"] },
+				  { "stats": ["3 Initial Combo"] },
+				  { "stats": ["4 Initial Combo"] },
+				  { "stats": ["5 Initial Combo"] },
+				  { "stats": ["6 Initial Combo"] }
+				],
+				"name": "Melee Crescendo",
+				"patchlogs": [],
+				"rarity": "Uncommon",
+				"tradable": true,
+				"type": "Arcane",
+			}
+		},
+		{
+			"uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/ReplayLightCritHits",
+			"type": "Add",
+			"data": {
+				"category": "Arcanes",
+				"drops": [
+				  {
+					"chance": 0.1,
+					"location": "Netracells"
+				  },	
+				  {
+					"chance": 0.1,
+					"location": "Deep Archimedea (Silver)"
+				  },				  
+				  {
+					"chance": 0.15,
+					"location": "Deep Archimedea (Gold)"
+				  },				  
+				  {
+					"chance": 0.25,
+					"location": "Deep Archimedea (Diamond)"
+				  },				  				  
+				],
+				"imageName": "https://cdn.alecaframe.com/warframeData/custom/imgRemote/patches/MeleeDuplicate.webp",
+				"levelStats": [
+				  { "stats": ["25% Melee attack hits a second time"] },
+				  { "stats": ["40% Melee attack hits a second time"] },
+				  { "stats": ["55% Melee attack hits a second time"] },
+				  { "stats": ["70% Melee attack hits a second time"] },
+				  { "stats": ["85% Melee attack hits a second time"] },
+				  { "stats": ["100% Melee attack hits a second time"] }
+				],
+				"name": "Melee Duplicate",
+				"patchlogs": [],
+				"rarity": "Uncommon",
+				"tradable": true,
+				"type": "Arcane",
+			}
+		},
+		{
+			"uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/CorrosiveMeleePerAbilityCast",
+			"type": "Add",
+			"data": {
+				"category": "Arcanes",
+				"drops": [
+				  {
+					"chance": 0.0625,
+					"location": "Mocking Whisper"
+				  },	
+				  {
+					"chance": 0.0625,
+					"location": "Scathing Whisper"
+				  },				  
+				  {
+					"chance": 0.0625,
+					"location": "The Fragmented"
+				  },				  
+				  {
+					"chance": 0.0,
+					"location": "Gruzzling"
+				  },	
+				  {
+					"chance": 100,
+					"location": "7500 faction standing"
+				  },				  
+				],
+				"imageName": "https://cdn.alecaframe.com/warframeData/custom/imgRemote/patches/MeleeExposure.webp",
+				"levelStats": [
+				  { "stats": ["10% <DT_CORROSIVE> Corrosive damage for Melees. Stacks up to 240%."] },
+				  { "stats": ["20% <DT_CORROSIVE> Corrosive damage for Melees. Stacks up to 240%."] },
+				  { "stats": ["30% <DT_CORROSIVE> Corrosive damage for Melees. Stacks up to 240%."] },
+				  { "stats": ["40% <DT_CORROSIVE> Corrosive damage for Melees. Stacks up to 240%."] },
+				  { "stats": ["50% <DT_CORROSIVE> Corrosive damage for Melees. Stacks up to 240%."] },
+				  { "stats": ["60% <DT_CORROSIVE> Corrosive damage for Melees. Stacks up to 240%."] },
+				],
+				"name": "Melee Exposure",
+				"patchlogs": [],
+				"rarity": "Uncommon",
+				"tradable": true,
+				"type": "Arcane",
+			}
+		},
+		{
+			"uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/ArmorOnMeleeKill",
+			"type": "Add",
+			"data": {
+				"category": "Arcanes",
+				"drops": [
+				  {
+					"chance": 0.125,
+					"location": "Mocking Whisper"
+				  },	
+				  {
+					"chance": 0.125,
+					"location": "Scathing Whisper"
+				  },				  
+				  {
+					"chance": 0.125,
+					"location": "The Fragmented"
+				  },				  
+				  {
+					"chance": 0.0,
+					"location": "Gruzzling"
+				  },	
+				  {
+					"chance": 100,
+					"location": "5000 faction standing"
+				  },				  
+				],
+				"imageName": "https://cdn.alecaframe.com/warframeData/custom/imgRemote/patches/MeleeFortification.webp",
+				"levelStats": [
+				  { "stats": ["35 Armor. Stacks indefinitely. Stacks last 10 seconds and decay individually."] },
+				  { "stats": ["70 Armor. Stacks indefinitely. Stacks last 10 seconds and decay individually."] },
+				  { "stats": ["105 Armor. Stacks indefinitely. Stacks last 10 seconds and decay individually."] },
+				  { "stats": ["140 Armor. Stacks indefinitely. Stacks last 10 seconds and decay individually."] },
+				  { "stats": ["175 Armor. Stacks indefinitely. Stacks last 10 seconds and decay individually."] },
+				  { "stats": ["210 Armor. Stacks indefinitely. Stacks last 10 seconds and decay individually."] },
+				],
+				"name": "Melee Fortification",
+				"patchlogs": [],
+				"rarity": "Uncommon",
+				"tradable": true,
+				"type": "Arcane",
+			}
+		},
+		{
+			"uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/MeleeProcsSpread",
+			"type": "Add",
+			"data": {
+				"category": "Arcanes",
+				"drops": [
+				  {
+					"chance": 0.0625,
+					"location": "Mocking Whisper"
+				  },	
+				  {
+					"chance": 0.0625,
+					"location": "Scathing Whisper"
+				  },				  
+				  {
+					"chance": 0.0625,
+					"location": "The Fragmented"
+				  },				  
+				  {
+					"chance": 0.0,
+					"location": "Gruzzling"
+				  },	
+				  {
+					"chance": 100,
+					"location": "7500 faction standing"
+				  },			  				  
+				],
+				"imageName": "https://cdn.alecaframe.com/warframeData/custom/imgRemote/patches/MeleeInfluence.webp",
+				"levelStats": [
+				  { "stats": ["On melee <DT_ELECTRICITY> electricity kill, 20% to transfer status up to 10m. Lasts 3s"] },
+				  { "stats": ["On melee <DT_ELECTRICITY> electricity kill, 20% to transfer status up to 12m. Lasts 6s"] },
+				  { "stats": ["On melee <DT_ELECTRICITY> electricity kill, 20% to transfer status up to 14m. Lasts 9s"] },
+				  { "stats": ["On melee <DT_ELECTRICITY> electricity kill, 20% to transfer status up to 16m. Lasts 12s"] },
+				  { "stats": ["On melee <DT_ELECTRICITY> electricity kill, 20% to transfer status up to 18m. Lasts 15s"] },
+				  { "stats": ["On melee <DT_ELECTRICITY> electricity kill, 20% to transfer status up to 20m. Lasts 18s"] },
+				],
+				"name": "Melee Influence",
+				"patchlogs": [],
+				"rarity": "Uncommon",
+				"tradable": true,
+				"type": "Arcane",
+			}
+		},
+		{
+			"uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/MeleeDamageForActiveShields",
+			"type": "Add",
+			"data": {
+				"category": "Arcanes",
+				"drops": [
+				  {
+					"chance": 0.125,
+					"location": "Mocking Whisper"
+				  },	
+				  {
+					"chance": 0.125,
+					"location": "Scathing Whisper"
+				  },				  
+				  {
+					"chance": 0.125,
+					"location": "The Fragmented"
+				  },				  
+				  {
+					"chance": 0.0,
+					"location": "Gruzzling"
+				  },
+				  {
+					"chance": 100,
+					"location": "5000 faction standing"
+				  },				  				  
+				],
+				"imageName": "https://cdn.alecaframe.com/warframeData/custom/imgRemote/patches/MeleeRetaliation.webp",
+				"levelStats": [
+				  { "stats": ["5% Damage for every 200 current Shields. Bonus halved for Overshields"] },
+				  { "stats": ["10% Damage for every 200 current Shields. Bonus halved for Overshields"] },
+				  { "stats": ["15% Damage for every 200 current Shields. Bonus halved for Overshields"] },
+				  { "stats": ["20% Damage for every 200 current Shields. Bonus halved for Overshields"] },
+				  { "stats": ["25% Damage for every 200 current Shields. Bonus halved for Overshields"] },
+				  { "stats": ["30% Damage for every 200 current Shields. Bonus halved for Overshields"] },
+				],
+				"name": "Melee Retaliation",
+				"patchlogs": [],
+				"rarity": "Uncommon",
+				"tradable": true,
+				"type": "Arcane",
+			}
+		},
+		{
+			"uniqueName": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/PullEnemiesOnMeleeKill",
+			"type": "Add",
+			"data": {
+				"category": "Arcanes",
+				"drops": [
+				  {
+					"chance": 0.0625,
+					"location": "Mocking Whisper"
+				  },	
+				  {
+					"chance": 0.0625,
+					"location": "Scathing Whisper"
+				  },				  
+				  {
+					"chance": 0.0625,
+					"location": "The Fragmented"
+				  },				  
+				  {
+					"chance": 0.0,
+					"location": "Gruzzling"
+				  },	
+				  {
+					"chance": 100,
+					"location": "7500 faction standing"
+				  },					  
+				],
+				"imageName": "https://cdn.alecaframe.com/warframeData/custom/imgRemote/patches/MeleeVortex.webp",
+				"levelStats": [
+				  { "stats": ["20% chance on <DT_MAGNETIC> magnetized enemy melee kill, pull enemies within 18 meters"] },
+				  { "stats": ["25% chance on <DT_MAGNETIC> magnetized enemy melee kill, pull enemies within 18 meters"] },
+				  { "stats": ["30% chance on <DT_MAGNETIC> magnetized enemy melee kill, pull enemies within 18 meters"] },
+				  { "stats": ["35% chance on <DT_MAGNETIC> magnetized enemy melee kill, pull enemies within 18 meters"] },
+				  { "stats": ["40% chance on <DT_MAGNETIC> magnetized enemy melee kill, pull enemies within 18 meters"] },
+				  { "stats": ["45% chance on <DT_MAGNETIC> magnetized enemy melee kill, pull enemies within 18 meters"] },
+				],
+				"name": "Melee Vortex",
+				"patchlogs": [],
+				"rarity": "Uncommon",
+				"tradable": true,
+				"type": "Arcane",
+			}
+		}
+	]
+}
