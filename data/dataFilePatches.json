@@ -380,5 +380,14 @@
 				"type": "Arcane",
 			}
 		}
-	]
+	],
+	"Warframes": [
+		{
+			"uniqueName": "/Lotus/Powersuits/Choir/Choir",
+			"type": "Patch",
+			"data": {				
+				"imageName": "https://cdn.alecaframe.com/warframeData/custom/imgRemote/patches/Jade.webp"
+		    },
+		}
+	],
 }
