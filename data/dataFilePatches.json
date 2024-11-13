@@ -2,7 +2,7 @@
     "Secondary": [
 		{
             "uniqueName": "/Lotus/Weapons/Tenno/Grimoire/TnDoppelgangerGrimoire",
-            "type": "Remove",           
+            "type": "Remove"       
         }
     ],
     "Arcanes": [
@@ -14,6 +14,10 @@
             "data": {
                 "imageName": "https://cdn.alecaframe.com/warframeData/custom/imgRemote/patches/Jade.webp"
             }
-        }
+        },
+		{
+			"uniqueName": "/Lotus/Powersuits/PowersuitAbilities/Helminth",
+			"type": "Remove"
+		}
     ]
 }
