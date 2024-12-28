@@ -68,5 +68,19 @@
     "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeCorrosiveDamageBoostMythic": "+15% Ab. DMG on enemies with <DT_CORROSIVE>",
     "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeCorrosiveStack": "+2 <DT_CORROSIVE> Corrosion Status max stacks",
     "/Lotus/Upgrades/Invigorations/ArchonCrystalUpgrades/ArchonCrystalUpgradeWarframeCorrosiveStackMythic": "+3 <DT_CORROSIVE> Corrosion Status max stacks"
+  },
+  "shardUniqueIDToUpgrade":{
+	  "/Lotus/Types/Gameplay/NarmerSorties/ArchonCrystalAmar":"ACC_RED",
+	  "/Lotus/Types/Gameplay/NarmerSorties/ArchonCrystalAmarMythic":"ACC_RED_MYTHIC",
+	  "/Lotus/Types/Gameplay/NarmerSorties/ArchonCrystalNira":"ACC_YELLOW",
+	  "/Lotus/Types/Gameplay/NarmerSorties/ArchonCrystalNiraMythic":"ACC_YELLOW_MYTHIC",
+	  "/Lotus/Types/Gameplay/NarmerSorties/ArchonCrystalBoreal":"ACC_BLUE",
+	  "/Lotus/Types/Gameplay/NarmerSorties/ArchonCrystalBorealMythic":"ACC_BLUE_MYTHIC",
+	  "/Lotus/Types/Gameplay/NarmerSorties/ArchonCrystalGreen":"ACC_GREEN",
+	  "/Lotus/Types/Gameplay/NarmerSorties/ArchonCrystalGreenMythic":"ACC_GREEN_MYTHIC",
+	  "/Lotus/Types/Gameplay/NarmerSorties/ArchonCrystalOrange":"ACC_ORANGE",
+	  "/Lotus/Types/Gameplay/NarmerSorties/ArchonCrystalOrangeMythic":"ACC_ORANGE_MYTHIC",
+	  "/Lotus/Types/Gameplay/NarmerSorties/ArchonCrystalViolet":"ACC_PURPLE",
+	  "/Lotus/Types/Gameplay/NarmerSorties/ArchonCrystalVioletMythic":"ACC_PURPLE_MYTHIC",
   }
 }
