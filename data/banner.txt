@@ -8,5 +8,10 @@
 	"enabled": false,
 	"message": "Opening the riven overlay with chat rivens is currently broken due to the last hotfix. Working on a fix, it will probably take 1-2 days.",
 	"maxVersion": ""
+},
+{
+	"enabled": true,
+	"message": "Some AlecaFrame features are currently down. I am working on getting them back up but it might take a few hours.",
+	"maxVersion": ""
 }
 ]
