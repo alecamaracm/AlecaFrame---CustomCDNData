@@ -10,7 +10,7 @@
 	"maxVersion": ""
 },
 {
-	"enabled": true,
+	"enabled": false,
 	"message": "Some AlecaFrame features are currently down. I am working on getting them back up but it might take a few hours.",
 	"maxVersion": ""
 }
