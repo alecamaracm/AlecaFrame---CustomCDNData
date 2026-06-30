@@ -18,6 +18,10 @@
 		{
 			"uniqueName": "/Lotus/Powersuits/PowersuitAbilities/Helminth",
 			"type": "Remove"
+		},
+				{
+			"uniqueName": "/Lotus/Powersuits/SiriusOrion/OrionSuit",
+			"type": "Remove"
 		}
     ]
 }
