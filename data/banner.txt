@@ -5,8 +5,8 @@
 	"maxVersion": ""
 },
 {
-	"enabled": false,
-	"message": "Opening the riven overlay with chat rivens is currently broken due to the last hotfix. Working on a fix, it will probably take 1-2 days.",
+	"enabled": true,
+	"message": "Some Riven features are temporarily unavailable following the latest Warframe update. We’re working on a fix, which will arrive with our next major AlecaFrame release in the coming days. Thanks for your patience!",
 	"maxVersion": ""
 },
 {
