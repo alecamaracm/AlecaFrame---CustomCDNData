@@ -5,7 +5,7 @@
 	"maxVersion": ""
 },
 {
-	"enabled": true,
+	"enabled": false,
 	"message": "Some Riven features are temporarily unavailable following the latest Warframe update. We’re working on a fix, which will arrive with our next major AlecaFrame release in the coming days. Thanks for your patience!",
 	"maxVersion": ""
 },
